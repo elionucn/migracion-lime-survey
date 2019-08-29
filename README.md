@@ -1,9 +1,8 @@
 # migracion-lime-survey
 Proyecto Lime Survey - Servicio de ENCUESTAS
 
-Ip interna: 172.31.81.12
-
-Ip pública: 3.208.240.135
+* Ip interna: 172.31.81.12
+* Ip pública: 3.208.240.135
 
 Información relevante del servidor
 
