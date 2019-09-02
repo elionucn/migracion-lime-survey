@@ -14,7 +14,8 @@ Proyecto Lime Survey - Servicio de ENCUESTAS
 **Backup**
 El proceso de backup de snapshot corre con el plan de backup MiscBKPLAN
 
-* Cuando
-* Donde
-* Que
-* Por cuanto:
+Backup de archivos
+* Cuando: Diario 11:30 PM
+* Donde: limesurveyucn/mysq
+* Que: dumpo de la base de datos
+* Por cuanto: 180 días
