@@ -8,5 +8,13 @@ Proyecto Lime Survey - Servicio de ENCUESTAS
 **Información relevante del servidor**
 * Nube AWS
 * PHP Versión: 7.2.21
-* mysql  Versión: 14.14 Distrib 5.7.27
+* Mysql  Versión: 14.14 Distrib 5.7.27
 * LimeSurvey Versión: 3.17.13+190824
+
+**Backup**
+El proceso de backup de snapshot corre con el plan de backup MiscBKPLAN
+
+* Cuando
+* Donde
+* Que
+* Por cuanto:
